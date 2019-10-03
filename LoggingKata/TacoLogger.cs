@@ -13,6 +13,7 @@ namespace LoggingKata
         {
             Console.WriteLine($"Error: {log}, Exception {exception}");
         }
+        hmfj hi,ku,ki
 
         public void LogWarning(string log)
         {
